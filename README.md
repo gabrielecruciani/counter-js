@@ -6,7 +6,7 @@
 
   <div align="center">
     <br/>
-    [Explore the docs](https://github.com/gabrielecruciani/counter-js)
+    <a href="https://github.com/gabrielecruciani/counter-js">Explore the docs »</a>
     <br/>
     <br/>
     <a href="https://counterjs-s2i.netlify.app">View Demo</a>
