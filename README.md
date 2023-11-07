@@ -20,6 +20,7 @@
 <div align="center">
   <img src="images/Screenshot.png" width="622.5" height="417.75" alt="counterJs"/>
 </div>
+<br/>
 
 This website is a project realized for Start2Impact University.
 
