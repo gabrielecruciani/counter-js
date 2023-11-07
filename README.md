@@ -17,7 +17,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/Screenshot.png" style="max-width: 75%;" alt="counterJs"/>
+<img src="images/Screenshot.png" style="max-width: 15%;" alt="counterJs"/>
 
 This website is a project realized for Start2Impact University.
 
