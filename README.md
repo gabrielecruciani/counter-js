@@ -2,50 +2,33 @@
 
 <br />
 <div align="center">
-  <h3 align="center">Counter-JS</h3>
+  <h2 align="center">Counter-JS</h2>
 
   <p align="center">
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="counterjs-s2i.netlify.app">View Demo</a>
+    <br/>
+    [Explore the docs](https://github.com/gabrielecruciani/counter-js)
+    <br/>
+    <br/>
+    [View Demo](counterjs-s2i.netlify.app)
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#socials">Contact</a></li>
-  </ol>
-</details>
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="/images/screenshot.png" alt="counterJs"/>
 
-This website è un progetto realizzato per start2impact university.
+This website is a project realized for Start2Impact University.
 
-Bisognava creare un sito che avesse due pulsanti + & - e che tramite il click di questi due pulsanti aumentasse e decrementasse il valore del counter.
-
+We needed to create a site that had two buttons "<strong>+</strong>" & "<strong>-</strong>" and that and that by clicking these two buttons it increased and decreased the value of the counter.
 
 
 
 ### Built With
 
-L'applicazione doveva essere sviluppata con JavaScript. Non era permesso utilizzare Jquery e nessun framework (React, Angular, Vue...).
+The application had to be developed with JavaScript. It wasn't allowed to use Jquery and any framework (React, Angular, Vue...).
+<br/>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a>
@@ -56,12 +39,11 @@ L'applicazione doveva essere sviluppata con JavaScript. Non era permesso utilizz
 
 
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the GENERAL PUBLIC LICENSE. See `LICENSE` for more information.
+<br/>
 
 
 
