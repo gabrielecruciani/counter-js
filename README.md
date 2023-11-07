@@ -9,7 +9,7 @@
     [Explore the docs](https://github.com/gabrielecruciani/counter-js)
     <br/>
     <br/>
-    [View Demo](https://counterjs-s2i.netlify.app)
+    <a href="https://counterjs-s2i.netlify.app">View Demo</a>
   </div>
 </div>
 
