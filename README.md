@@ -26,8 +26,7 @@
 
 This website is a project realized for Start2Impact University.
 
-We needed to create a site that had two buttons "<strong>+</strong>" & "<strong>-</strong>" and that and that by clicking these two buttons it increased and decreased the value of the counter.
-[Explore the docs](https://github.com/gabrielecruciani/counter-js)
+We needed to create a site that had two buttons "+" & "-" and that and that by clicking these two buttons it increased and decreased the value of the counter.
 
 
 ### Built With
