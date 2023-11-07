@@ -4,13 +4,15 @@
 <div align="center">
   <h2 align="center">Counter-JS</h2>
 
-  <p align="center">
+  <div align="center">
     <br/>
     [Explore the docs](https://github.com/gabrielecruciani/counter-js)
     <br/>
     <br/>
-    [View Demo](counterjs-s2i.netlify.app)
+    [View Demo](https://counterjs-s2i.netlify.app)
+  </div>
 </div>
+
 
 
 
@@ -25,7 +27,7 @@
 This website is a project realized for Start2Impact University.
 
 We needed to create a site that had two buttons "<strong>+</strong>" & "<strong>-</strong>" and that and that by clicking these two buttons it increased and decreased the value of the counter.
-
+[Explore the docs](https://github.com/gabrielecruciani/counter-js)
 
 
 ### Built With
