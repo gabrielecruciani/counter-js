@@ -20,7 +20,7 @@
 ## About The Project
 
 <div align="center">
-  <img src="images/Screenshot.png" width="622.5" height="417.75" alt="counterJs"/>
+  <img src="images/screen.png" width="622.5" height="417.75" alt="counterJs"/>
 </div>
 <br/>
 
